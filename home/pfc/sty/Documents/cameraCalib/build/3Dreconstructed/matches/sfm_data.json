@@ -1,0 +1,4355 @@
+{
+    "sfm_data_version": "0.3",
+    "root_path": "/home/pfc/sty/Documents/cameraCalib/build/images/left/",
+    "views": [
+        {
+            "key": 0,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483649,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_10.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 0,
+                        "id_intrinsic": 0,
+                        "id_pose": 0
+                    }
+                }
+            }
+        },
+        {
+            "key": 1,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483650,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_102.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 1,
+                        "id_intrinsic": 0,
+                        "id_pose": 1
+                    }
+                }
+            }
+        },
+        {
+            "key": 2,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483651,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_107.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 2,
+                        "id_intrinsic": 0,
+                        "id_pose": 2
+                    }
+                }
+            }
+        },
+        {
+            "key": 3,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483652,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_108.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 3,
+                        "id_intrinsic": 0,
+                        "id_pose": 3
+                    }
+                }
+            }
+        },
+        {
+            "key": 4,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483653,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_109.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 4,
+                        "id_intrinsic": 0,
+                        "id_pose": 4
+                    }
+                }
+            }
+        },
+        {
+            "key": 5,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483654,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_11.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 5,
+                        "id_intrinsic": 0,
+                        "id_pose": 5
+                    }
+                }
+            }
+        },
+        {
+            "key": 6,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483655,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_110.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 6,
+                        "id_intrinsic": 0,
+                        "id_pose": 6
+                    }
+                }
+            }
+        },
+        {
+            "key": 7,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483656,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_113.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 7,
+                        "id_intrinsic": 0,
+                        "id_pose": 7
+                    }
+                }
+            }
+        },
+        {
+            "key": 8,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483657,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_114.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 8,
+                        "id_intrinsic": 0,
+                        "id_pose": 8
+                    }
+                }
+            }
+        },
+        {
+            "key": 9,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483658,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_115.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 9,
+                        "id_intrinsic": 0,
+                        "id_pose": 9
+                    }
+                }
+            }
+        },
+        {
+            "key": 10,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483659,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_12.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 10,
+                        "id_intrinsic": 0,
+                        "id_pose": 10
+                    }
+                }
+            }
+        },
+        {
+            "key": 11,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483660,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_126.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 11,
+                        "id_intrinsic": 0,
+                        "id_pose": 11
+                    }
+                }
+            }
+        },
+        {
+            "key": 12,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483661,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_127.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 12,
+                        "id_intrinsic": 0,
+                        "id_pose": 12
+                    }
+                }
+            }
+        },
+        {
+            "key": 13,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483662,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_13.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 13,
+                        "id_intrinsic": 0,
+                        "id_pose": 13
+                    }
+                }
+            }
+        },
+        {
+            "key": 14,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483663,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_14.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 14,
+                        "id_intrinsic": 0,
+                        "id_pose": 14
+                    }
+                }
+            }
+        },
+        {
+            "key": 15,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483664,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_148.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 15,
+                        "id_intrinsic": 0,
+                        "id_pose": 15
+                    }
+                }
+            }
+        },
+        {
+            "key": 16,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483665,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_149.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 16,
+                        "id_intrinsic": 0,
+                        "id_pose": 16
+                    }
+                }
+            }
+        },
+        {
+            "key": 17,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483666,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_15.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 17,
+                        "id_intrinsic": 0,
+                        "id_pose": 17
+                    }
+                }
+            }
+        },
+        {
+            "key": 18,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483667,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_152.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 18,
+                        "id_intrinsic": 0,
+                        "id_pose": 18
+                    }
+                }
+            }
+        },
+        {
+            "key": 19,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483668,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_153.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 19,
+                        "id_intrinsic": 0,
+                        "id_pose": 19
+                    }
+                }
+            }
+        },
+        {
+            "key": 20,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483669,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_155.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 20,
+                        "id_intrinsic": 0,
+                        "id_pose": 20
+                    }
+                }
+            }
+        },
+        {
+            "key": 21,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483670,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_156.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 21,
+                        "id_intrinsic": 0,
+                        "id_pose": 21
+                    }
+                }
+            }
+        },
+        {
+            "key": 22,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483671,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_157.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 22,
+                        "id_intrinsic": 0,
+                        "id_pose": 22
+                    }
+                }
+            }
+        },
+        {
+            "key": 23,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483672,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_158.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 23,
+                        "id_intrinsic": 0,
+                        "id_pose": 23
+                    }
+                }
+            }
+        },
+        {
+            "key": 24,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483673,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_159.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 24,
+                        "id_intrinsic": 0,
+                        "id_pose": 24
+                    }
+                }
+            }
+        },
+        {
+            "key": 25,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483674,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_16.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 25,
+                        "id_intrinsic": 0,
+                        "id_pose": 25
+                    }
+                }
+            }
+        },
+        {
+            "key": 26,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483675,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_160.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 26,
+                        "id_intrinsic": 0,
+                        "id_pose": 26
+                    }
+                }
+            }
+        },
+        {
+            "key": 27,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483676,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_17.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 27,
+                        "id_intrinsic": 0,
+                        "id_pose": 27
+                    }
+                }
+            }
+        },
+        {
+            "key": 28,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483677,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_18.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 28,
+                        "id_intrinsic": 0,
+                        "id_pose": 28
+                    }
+                }
+            }
+        },
+        {
+            "key": 29,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483678,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_181.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 29,
+                        "id_intrinsic": 0,
+                        "id_pose": 29
+                    }
+                }
+            }
+        },
+        {
+            "key": 30,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483679,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_182.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 30,
+                        "id_intrinsic": 0,
+                        "id_pose": 30
+                    }
+                }
+            }
+        },
+        {
+            "key": 31,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483680,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_186.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 31,
+                        "id_intrinsic": 0,
+                        "id_pose": 31
+                    }
+                }
+            }
+        },
+        {
+            "key": 32,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483681,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_2.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 32,
+                        "id_intrinsic": 0,
+                        "id_pose": 32
+                    }
+                }
+            }
+        },
+        {
+            "key": 33,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483682,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_20.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 33,
+                        "id_intrinsic": 0,
+                        "id_pose": 33
+                    }
+                }
+            }
+        },
+        {
+            "key": 34,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483683,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_201.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 34,
+                        "id_intrinsic": 0,
+                        "id_pose": 34
+                    }
+                }
+            }
+        },
+        {
+            "key": 35,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483684,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_202.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 35,
+                        "id_intrinsic": 0,
+                        "id_pose": 35
+                    }
+                }
+            }
+        },
+        {
+            "key": 36,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483685,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_203.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 36,
+                        "id_intrinsic": 0,
+                        "id_pose": 36
+                    }
+                }
+            }
+        },
+        {
+            "key": 37,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483686,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_208.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 37,
+                        "id_intrinsic": 0,
+                        "id_pose": 37
+                    }
+                }
+            }
+        },
+        {
+            "key": 38,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483687,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_209.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 38,
+                        "id_intrinsic": 0,
+                        "id_pose": 38
+                    }
+                }
+            }
+        },
+        {
+            "key": 39,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483688,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_217.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 39,
+                        "id_intrinsic": 0,
+                        "id_pose": 39
+                    }
+                }
+            }
+        },
+        {
+            "key": 40,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483689,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_218.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 40,
+                        "id_intrinsic": 0,
+                        "id_pose": 40
+                    }
+                }
+            }
+        },
+        {
+            "key": 41,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483690,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_219.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 41,
+                        "id_intrinsic": 0,
+                        "id_pose": 41
+                    }
+                }
+            }
+        },
+        {
+            "key": 42,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483691,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_22.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 42,
+                        "id_intrinsic": 0,
+                        "id_pose": 42
+                    }
+                }
+            }
+        },
+        {
+            "key": 43,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483692,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_220.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 43,
+                        "id_intrinsic": 0,
+                        "id_pose": 43
+                    }
+                }
+            }
+        },
+        {
+            "key": 44,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483693,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_221.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 44,
+                        "id_intrinsic": 0,
+                        "id_pose": 44
+                    }
+                }
+            }
+        },
+        {
+            "key": 45,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483694,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_222.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 45,
+                        "id_intrinsic": 0,
+                        "id_pose": 45
+                    }
+                }
+            }
+        },
+        {
+            "key": 46,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483695,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_223.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 46,
+                        "id_intrinsic": 0,
+                        "id_pose": 46
+                    }
+                }
+            }
+        },
+        {
+            "key": 47,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483696,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_224.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 47,
+                        "id_intrinsic": 0,
+                        "id_pose": 47
+                    }
+                }
+            }
+        },
+        {
+            "key": 48,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483697,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_225.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 48,
+                        "id_intrinsic": 0,
+                        "id_pose": 48
+                    }
+                }
+            }
+        },
+        {
+            "key": 49,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483698,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_226.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 49,
+                        "id_intrinsic": 0,
+                        "id_pose": 49
+                    }
+                }
+            }
+        },
+        {
+            "key": 50,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483699,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_227.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 50,
+                        "id_intrinsic": 0,
+                        "id_pose": 50
+                    }
+                }
+            }
+        },
+        {
+            "key": 51,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483700,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_228.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 51,
+                        "id_intrinsic": 0,
+                        "id_pose": 51
+                    }
+                }
+            }
+        },
+        {
+            "key": 52,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483701,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_229.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 52,
+                        "id_intrinsic": 0,
+                        "id_pose": 52
+                    }
+                }
+            }
+        },
+        {
+            "key": 53,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483702,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_23.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 53,
+                        "id_intrinsic": 0,
+                        "id_pose": 53
+                    }
+                }
+            }
+        },
+        {
+            "key": 54,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483703,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_230.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 54,
+                        "id_intrinsic": 0,
+                        "id_pose": 54
+                    }
+                }
+            }
+        },
+        {
+            "key": 55,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483704,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_231.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 55,
+                        "id_intrinsic": 0,
+                        "id_pose": 55
+                    }
+                }
+            }
+        },
+        {
+            "key": 56,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483705,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_232.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 56,
+                        "id_intrinsic": 0,
+                        "id_pose": 56
+                    }
+                }
+            }
+        },
+        {
+            "key": 57,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483706,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_233.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 57,
+                        "id_intrinsic": 0,
+                        "id_pose": 57
+                    }
+                }
+            }
+        },
+        {
+            "key": 58,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483707,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_234.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 58,
+                        "id_intrinsic": 0,
+                        "id_pose": 58
+                    }
+                }
+            }
+        },
+        {
+            "key": 59,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483708,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_235.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 59,
+                        "id_intrinsic": 0,
+                        "id_pose": 59
+                    }
+                }
+            }
+        },
+        {
+            "key": 60,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483709,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_236.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 60,
+                        "id_intrinsic": 0,
+                        "id_pose": 60
+                    }
+                }
+            }
+        },
+        {
+            "key": 61,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483710,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_237.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 61,
+                        "id_intrinsic": 0,
+                        "id_pose": 61
+                    }
+                }
+            }
+        },
+        {
+            "key": 62,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483711,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_238.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 62,
+                        "id_intrinsic": 0,
+                        "id_pose": 62
+                    }
+                }
+            }
+        },
+        {
+            "key": 63,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483712,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_239.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 63,
+                        "id_intrinsic": 0,
+                        "id_pose": 63
+                    }
+                }
+            }
+        },
+        {
+            "key": 64,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483713,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_24.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 64,
+                        "id_intrinsic": 0,
+                        "id_pose": 64
+                    }
+                }
+            }
+        },
+        {
+            "key": 65,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483714,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_240.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 65,
+                        "id_intrinsic": 0,
+                        "id_pose": 65
+                    }
+                }
+            }
+        },
+        {
+            "key": 66,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483715,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_241.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 66,
+                        "id_intrinsic": 0,
+                        "id_pose": 66
+                    }
+                }
+            }
+        },
+        {
+            "key": 67,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483716,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_242.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 67,
+                        "id_intrinsic": 0,
+                        "id_pose": 67
+                    }
+                }
+            }
+        },
+        {
+            "key": 68,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483717,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_243.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 68,
+                        "id_intrinsic": 0,
+                        "id_pose": 68
+                    }
+                }
+            }
+        },
+        {
+            "key": 69,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483718,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_244.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 69,
+                        "id_intrinsic": 0,
+                        "id_pose": 69
+                    }
+                }
+            }
+        },
+        {
+            "key": 70,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483719,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_245.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 70,
+                        "id_intrinsic": 0,
+                        "id_pose": 70
+                    }
+                }
+            }
+        },
+        {
+            "key": 71,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483720,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_246.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 71,
+                        "id_intrinsic": 0,
+                        "id_pose": 71
+                    }
+                }
+            }
+        },
+        {
+            "key": 72,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483721,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_247.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 72,
+                        "id_intrinsic": 0,
+                        "id_pose": 72
+                    }
+                }
+            }
+        },
+        {
+            "key": 73,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483722,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_248.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 73,
+                        "id_intrinsic": 0,
+                        "id_pose": 73
+                    }
+                }
+            }
+        },
+        {
+            "key": 74,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483723,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_249.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 74,
+                        "id_intrinsic": 0,
+                        "id_pose": 74
+                    }
+                }
+            }
+        },
+        {
+            "key": 75,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483724,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_255.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 75,
+                        "id_intrinsic": 0,
+                        "id_pose": 75
+                    }
+                }
+            }
+        },
+        {
+            "key": 76,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483725,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_256.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 76,
+                        "id_intrinsic": 0,
+                        "id_pose": 76
+                    }
+                }
+            }
+        },
+        {
+            "key": 77,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483726,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_257.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 77,
+                        "id_intrinsic": 0,
+                        "id_pose": 77
+                    }
+                }
+            }
+        },
+        {
+            "key": 78,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483727,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_258.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 78,
+                        "id_intrinsic": 0,
+                        "id_pose": 78
+                    }
+                }
+            }
+        },
+        {
+            "key": 79,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483728,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_261.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 79,
+                        "id_intrinsic": 0,
+                        "id_pose": 79
+                    }
+                }
+            }
+        },
+        {
+            "key": 80,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483729,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_262.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 80,
+                        "id_intrinsic": 0,
+                        "id_pose": 80
+                    }
+                }
+            }
+        },
+        {
+            "key": 81,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483730,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_272.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 81,
+                        "id_intrinsic": 0,
+                        "id_pose": 81
+                    }
+                }
+            }
+        },
+        {
+            "key": 82,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483731,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_273.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 82,
+                        "id_intrinsic": 0,
+                        "id_pose": 82
+                    }
+                }
+            }
+        },
+        {
+            "key": 83,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483732,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_274.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 83,
+                        "id_intrinsic": 0,
+                        "id_pose": 83
+                    }
+                }
+            }
+        },
+        {
+            "key": 84,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483733,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_275.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 84,
+                        "id_intrinsic": 0,
+                        "id_pose": 84
+                    }
+                }
+            }
+        },
+        {
+            "key": 85,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483734,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_276.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 85,
+                        "id_intrinsic": 0,
+                        "id_pose": 85
+                    }
+                }
+            }
+        },
+        {
+            "key": 86,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483735,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_277.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 86,
+                        "id_intrinsic": 0,
+                        "id_pose": 86
+                    }
+                }
+            }
+        },
+        {
+            "key": 87,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483736,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_278.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 87,
+                        "id_intrinsic": 0,
+                        "id_pose": 87
+                    }
+                }
+            }
+        },
+        {
+            "key": 88,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483737,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_279.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 88,
+                        "id_intrinsic": 0,
+                        "id_pose": 88
+                    }
+                }
+            }
+        },
+        {
+            "key": 89,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483738,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_285.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 89,
+                        "id_intrinsic": 0,
+                        "id_pose": 89
+                    }
+                }
+            }
+        },
+        {
+            "key": 90,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483739,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_286.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 90,
+                        "id_intrinsic": 0,
+                        "id_pose": 90
+                    }
+                }
+            }
+        },
+        {
+            "key": 91,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483740,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_287.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 91,
+                        "id_intrinsic": 0,
+                        "id_pose": 91
+                    }
+                }
+            }
+        },
+        {
+            "key": 92,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483741,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_288.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 92,
+                        "id_intrinsic": 0,
+                        "id_pose": 92
+                    }
+                }
+            }
+        },
+        {
+            "key": 93,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483742,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_289.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 93,
+                        "id_intrinsic": 0,
+                        "id_pose": 93
+                    }
+                }
+            }
+        },
+        {
+            "key": 94,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483743,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_290.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 94,
+                        "id_intrinsic": 0,
+                        "id_pose": 94
+                    }
+                }
+            }
+        },
+        {
+            "key": 95,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483744,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_296.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 95,
+                        "id_intrinsic": 0,
+                        "id_pose": 95
+                    }
+                }
+            }
+        },
+        {
+            "key": 96,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483745,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_297.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 96,
+                        "id_intrinsic": 0,
+                        "id_pose": 96
+                    }
+                }
+            }
+        },
+        {
+            "key": 97,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483746,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_298.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 97,
+                        "id_intrinsic": 0,
+                        "id_pose": 97
+                    }
+                }
+            }
+        },
+        {
+            "key": 98,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483747,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_299.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 98,
+                        "id_intrinsic": 0,
+                        "id_pose": 98
+                    }
+                }
+            }
+        },
+        {
+            "key": 99,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483748,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_3.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 99,
+                        "id_intrinsic": 0,
+                        "id_pose": 99
+                    }
+                }
+            }
+        },
+        {
+            "key": 100,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483749,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_300.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 100,
+                        "id_intrinsic": 0,
+                        "id_pose": 100
+                    }
+                }
+            }
+        },
+        {
+            "key": 101,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483750,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_301.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 101,
+                        "id_intrinsic": 0,
+                        "id_pose": 101
+                    }
+                }
+            }
+        },
+        {
+            "key": 102,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483751,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_307.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 102,
+                        "id_intrinsic": 0,
+                        "id_pose": 102
+                    }
+                }
+            }
+        },
+        {
+            "key": 103,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483752,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_308.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 103,
+                        "id_intrinsic": 0,
+                        "id_pose": 103
+                    }
+                }
+            }
+        },
+        {
+            "key": 104,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483753,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_309.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 104,
+                        "id_intrinsic": 0,
+                        "id_pose": 104
+                    }
+                }
+            }
+        },
+        {
+            "key": 105,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483754,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_310.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 105,
+                        "id_intrinsic": 0,
+                        "id_pose": 105
+                    }
+                }
+            }
+        },
+        {
+            "key": 106,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483755,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_311.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 106,
+                        "id_intrinsic": 0,
+                        "id_pose": 106
+                    }
+                }
+            }
+        },
+        {
+            "key": 107,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483756,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_312.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 107,
+                        "id_intrinsic": 0,
+                        "id_pose": 107
+                    }
+                }
+            }
+        },
+        {
+            "key": 108,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483757,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_313.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 108,
+                        "id_intrinsic": 0,
+                        "id_pose": 108
+                    }
+                }
+            }
+        },
+        {
+            "key": 109,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483758,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_314.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 109,
+                        "id_intrinsic": 0,
+                        "id_pose": 109
+                    }
+                }
+            }
+        },
+        {
+            "key": 110,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483759,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_323.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 110,
+                        "id_intrinsic": 0,
+                        "id_pose": 110
+                    }
+                }
+            }
+        },
+        {
+            "key": 111,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483760,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_324.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 111,
+                        "id_intrinsic": 0,
+                        "id_pose": 111
+                    }
+                }
+            }
+        },
+        {
+            "key": 112,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483761,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_325.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 112,
+                        "id_intrinsic": 0,
+                        "id_pose": 112
+                    }
+                }
+            }
+        },
+        {
+            "key": 113,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483762,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_35.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 113,
+                        "id_intrinsic": 0,
+                        "id_pose": 113
+                    }
+                }
+            }
+        },
+        {
+            "key": 114,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483763,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_354.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 114,
+                        "id_intrinsic": 0,
+                        "id_pose": 114
+                    }
+                }
+            }
+        },
+        {
+            "key": 115,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483764,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_356.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 115,
+                        "id_intrinsic": 0,
+                        "id_pose": 115
+                    }
+                }
+            }
+        },
+        {
+            "key": 116,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483765,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_370.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 116,
+                        "id_intrinsic": 0,
+                        "id_pose": 116
+                    }
+                }
+            }
+        },
+        {
+            "key": 117,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483766,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_383.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 117,
+                        "id_intrinsic": 0,
+                        "id_pose": 117
+                    }
+                }
+            }
+        },
+        {
+            "key": 118,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483767,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_384.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 118,
+                        "id_intrinsic": 0,
+                        "id_pose": 118
+                    }
+                }
+            }
+        },
+        {
+            "key": 119,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483768,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_385.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 119,
+                        "id_intrinsic": 0,
+                        "id_pose": 119
+                    }
+                }
+            }
+        },
+        {
+            "key": 120,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483769,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_393.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 120,
+                        "id_intrinsic": 0,
+                        "id_pose": 120
+                    }
+                }
+            }
+        },
+        {
+            "key": 121,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483770,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_394.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 121,
+                        "id_intrinsic": 0,
+                        "id_pose": 121
+                    }
+                }
+            }
+        },
+        {
+            "key": 122,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483771,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_395.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 122,
+                        "id_intrinsic": 0,
+                        "id_pose": 122
+                    }
+                }
+            }
+        },
+        {
+            "key": 123,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483772,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_396.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 123,
+                        "id_intrinsic": 0,
+                        "id_pose": 123
+                    }
+                }
+            }
+        },
+        {
+            "key": 124,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483773,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_397.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 124,
+                        "id_intrinsic": 0,
+                        "id_pose": 124
+                    }
+                }
+            }
+        },
+        {
+            "key": 125,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483774,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_398.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 125,
+                        "id_intrinsic": 0,
+                        "id_pose": 125
+                    }
+                }
+            }
+        },
+        {
+            "key": 126,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483775,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_399.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 126,
+                        "id_intrinsic": 0,
+                        "id_pose": 126
+                    }
+                }
+            }
+        },
+        {
+            "key": 127,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483776,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_4.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 127,
+                        "id_intrinsic": 0,
+                        "id_pose": 127
+                    }
+                }
+            }
+        },
+        {
+            "key": 128,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483777,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_402.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 128,
+                        "id_intrinsic": 0,
+                        "id_pose": 128
+                    }
+                }
+            }
+        },
+        {
+            "key": 129,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483778,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_403.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 129,
+                        "id_intrinsic": 0,
+                        "id_pose": 129
+                    }
+                }
+            }
+        },
+        {
+            "key": 130,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483779,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_414.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 130,
+                        "id_intrinsic": 0,
+                        "id_pose": 130
+                    }
+                }
+            }
+        },
+        {
+            "key": 131,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483780,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_415.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 131,
+                        "id_intrinsic": 0,
+                        "id_pose": 131
+                    }
+                }
+            }
+        },
+        {
+            "key": 132,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483781,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_416.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 132,
+                        "id_intrinsic": 0,
+                        "id_pose": 132
+                    }
+                }
+            }
+        },
+        {
+            "key": 133,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483782,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_417.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 133,
+                        "id_intrinsic": 0,
+                        "id_pose": 133
+                    }
+                }
+            }
+        },
+        {
+            "key": 134,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483783,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_418.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 134,
+                        "id_intrinsic": 0,
+                        "id_pose": 134
+                    }
+                }
+            }
+        },
+        {
+            "key": 135,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483784,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_419.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 135,
+                        "id_intrinsic": 0,
+                        "id_pose": 135
+                    }
+                }
+            }
+        },
+        {
+            "key": 136,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483785,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_420.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 136,
+                        "id_intrinsic": 0,
+                        "id_pose": 136
+                    }
+                }
+            }
+        },
+        {
+            "key": 137,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483786,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_421.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 137,
+                        "id_intrinsic": 0,
+                        "id_pose": 137
+                    }
+                }
+            }
+        },
+        {
+            "key": 138,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483787,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_422.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 138,
+                        "id_intrinsic": 0,
+                        "id_pose": 138
+                    }
+                }
+            }
+        },
+        {
+            "key": 139,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483788,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_423.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 139,
+                        "id_intrinsic": 0,
+                        "id_pose": 139
+                    }
+                }
+            }
+        },
+        {
+            "key": 140,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483789,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_424.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 140,
+                        "id_intrinsic": 0,
+                        "id_pose": 140
+                    }
+                }
+            }
+        },
+        {
+            "key": 141,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483790,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_434.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 141,
+                        "id_intrinsic": 0,
+                        "id_pose": 141
+                    }
+                }
+            }
+        },
+        {
+            "key": 142,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483791,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_435.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 142,
+                        "id_intrinsic": 0,
+                        "id_pose": 142
+                    }
+                }
+            }
+        },
+        {
+            "key": 143,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483792,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_436.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 143,
+                        "id_intrinsic": 0,
+                        "id_pose": 143
+                    }
+                }
+            }
+        },
+        {
+            "key": 144,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483793,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_437.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 144,
+                        "id_intrinsic": 0,
+                        "id_pose": 144
+                    }
+                }
+            }
+        },
+        {
+            "key": 145,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483794,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_448.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 145,
+                        "id_intrinsic": 0,
+                        "id_pose": 145
+                    }
+                }
+            }
+        },
+        {
+            "key": 146,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483795,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_449.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 146,
+                        "id_intrinsic": 0,
+                        "id_pose": 146
+                    }
+                }
+            }
+        },
+        {
+            "key": 147,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483796,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_450.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 147,
+                        "id_intrinsic": 0,
+                        "id_pose": 147
+                    }
+                }
+            }
+        },
+        {
+            "key": 148,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483797,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_460.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 148,
+                        "id_intrinsic": 0,
+                        "id_pose": 148
+                    }
+                }
+            }
+        },
+        {
+            "key": 149,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483798,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_469.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 149,
+                        "id_intrinsic": 0,
+                        "id_pose": 149
+                    }
+                }
+            }
+        },
+        {
+            "key": 150,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483799,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_470.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 150,
+                        "id_intrinsic": 0,
+                        "id_pose": 150
+                    }
+                }
+            }
+        },
+        {
+            "key": 151,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483800,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_471.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 151,
+                        "id_intrinsic": 0,
+                        "id_pose": 151
+                    }
+                }
+            }
+        },
+        {
+            "key": 152,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483801,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_472.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 152,
+                        "id_intrinsic": 0,
+                        "id_pose": 152
+                    }
+                }
+            }
+        },
+        {
+            "key": 153,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483802,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_473.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 153,
+                        "id_intrinsic": 0,
+                        "id_pose": 153
+                    }
+                }
+            }
+        },
+        {
+            "key": 154,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483803,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_474.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 154,
+                        "id_intrinsic": 0,
+                        "id_pose": 154
+                    }
+                }
+            }
+        },
+        {
+            "key": 155,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483804,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_475.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 155,
+                        "id_intrinsic": 0,
+                        "id_pose": 155
+                    }
+                }
+            }
+        },
+        {
+            "key": 156,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483805,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_476.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 156,
+                        "id_intrinsic": 0,
+                        "id_pose": 156
+                    }
+                }
+            }
+        },
+        {
+            "key": 157,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483806,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_479.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 157,
+                        "id_intrinsic": 0,
+                        "id_pose": 157
+                    }
+                }
+            }
+        },
+        {
+            "key": 158,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483807,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_48.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 158,
+                        "id_intrinsic": 0,
+                        "id_pose": 158
+                    }
+                }
+            }
+        },
+        {
+            "key": 159,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483808,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_484.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 159,
+                        "id_intrinsic": 0,
+                        "id_pose": 159
+                    }
+                }
+            }
+        },
+        {
+            "key": 160,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483809,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_485.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 160,
+                        "id_intrinsic": 0,
+                        "id_pose": 160
+                    }
+                }
+            }
+        },
+        {
+            "key": 161,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483810,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_486.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 161,
+                        "id_intrinsic": 0,
+                        "id_pose": 161
+                    }
+                }
+            }
+        },
+        {
+            "key": 162,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483811,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_487.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 162,
+                        "id_intrinsic": 0,
+                        "id_pose": 162
+                    }
+                }
+            }
+        },
+        {
+            "key": 163,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483812,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_488.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 163,
+                        "id_intrinsic": 0,
+                        "id_pose": 163
+                    }
+                }
+            }
+        },
+        {
+            "key": 164,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483813,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_489.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 164,
+                        "id_intrinsic": 0,
+                        "id_pose": 164
+                    }
+                }
+            }
+        },
+        {
+            "key": 165,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483814,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_49.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 165,
+                        "id_intrinsic": 0,
+                        "id_pose": 165
+                    }
+                }
+            }
+        },
+        {
+            "key": 166,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483815,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_5.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 166,
+                        "id_intrinsic": 0,
+                        "id_pose": 166
+                    }
+                }
+            }
+        },
+        {
+            "key": 167,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483816,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_502.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 167,
+                        "id_intrinsic": 0,
+                        "id_pose": 167
+                    }
+                }
+            }
+        },
+        {
+            "key": 168,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483817,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_503.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 168,
+                        "id_intrinsic": 0,
+                        "id_pose": 168
+                    }
+                }
+            }
+        },
+        {
+            "key": 169,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483818,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_504.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 169,
+                        "id_intrinsic": 0,
+                        "id_pose": 169
+                    }
+                }
+            }
+        },
+        {
+            "key": 170,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483819,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_505.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 170,
+                        "id_intrinsic": 0,
+                        "id_pose": 170
+                    }
+                }
+            }
+        },
+        {
+            "key": 171,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483820,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_506.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 171,
+                        "id_intrinsic": 0,
+                        "id_pose": 171
+                    }
+                }
+            }
+        },
+        {
+            "key": 172,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483821,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_511.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 172,
+                        "id_intrinsic": 0,
+                        "id_pose": 172
+                    }
+                }
+            }
+        },
+        {
+            "key": 173,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483822,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_513.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 173,
+                        "id_intrinsic": 0,
+                        "id_pose": 173
+                    }
+                }
+            }
+        },
+        {
+            "key": 174,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483823,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_553.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 174,
+                        "id_intrinsic": 0,
+                        "id_pose": 174
+                    }
+                }
+            }
+        },
+        {
+            "key": 175,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483824,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_554.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 175,
+                        "id_intrinsic": 0,
+                        "id_pose": 175
+                    }
+                }
+            }
+        },
+        {
+            "key": 176,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483825,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_555.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 176,
+                        "id_intrinsic": 0,
+                        "id_pose": 176
+                    }
+                }
+            }
+        },
+        {
+            "key": 177,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483826,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_556.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 177,
+                        "id_intrinsic": 0,
+                        "id_pose": 177
+                    }
+                }
+            }
+        },
+        {
+            "key": 178,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483827,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_56.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 178,
+                        "id_intrinsic": 0,
+                        "id_pose": 178
+                    }
+                }
+            }
+        },
+        {
+            "key": 179,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483828,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_570.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 179,
+                        "id_intrinsic": 0,
+                        "id_pose": 179
+                    }
+                }
+            }
+        },
+        {
+            "key": 180,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483829,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_58.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 180,
+                        "id_intrinsic": 0,
+                        "id_pose": 180
+                    }
+                }
+            }
+        },
+        {
+            "key": 181,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483830,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_596.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 181,
+                        "id_intrinsic": 0,
+                        "id_pose": 181
+                    }
+                }
+            }
+        },
+        {
+            "key": 182,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483831,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_597.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 182,
+                        "id_intrinsic": 0,
+                        "id_pose": 182
+                    }
+                }
+            }
+        },
+        {
+            "key": 183,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483832,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_6.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 183,
+                        "id_intrinsic": 0,
+                        "id_pose": 183
+                    }
+                }
+            }
+        },
+        {
+            "key": 184,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483833,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_600.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 184,
+                        "id_intrinsic": 0,
+                        "id_pose": 184
+                    }
+                }
+            }
+        },
+        {
+            "key": 185,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483834,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_601.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 185,
+                        "id_intrinsic": 0,
+                        "id_pose": 185
+                    }
+                }
+            }
+        },
+        {
+            "key": 186,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483835,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_602.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 186,
+                        "id_intrinsic": 0,
+                        "id_pose": 186
+                    }
+                }
+            }
+        },
+        {
+            "key": 187,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483836,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_603.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 187,
+                        "id_intrinsic": 0,
+                        "id_pose": 187
+                    }
+                }
+            }
+        },
+        {
+            "key": 188,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483837,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_604.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 188,
+                        "id_intrinsic": 0,
+                        "id_pose": 188
+                    }
+                }
+            }
+        },
+        {
+            "key": 189,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483838,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_605.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 189,
+                        "id_intrinsic": 0,
+                        "id_pose": 189
+                    }
+                }
+            }
+        },
+        {
+            "key": 190,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483839,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_625.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 190,
+                        "id_intrinsic": 0,
+                        "id_pose": 190
+                    }
+                }
+            }
+        },
+        {
+            "key": 191,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483840,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_626.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 191,
+                        "id_intrinsic": 0,
+                        "id_pose": 191
+                    }
+                }
+            }
+        },
+        {
+            "key": 192,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483841,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_628.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 192,
+                        "id_intrinsic": 0,
+                        "id_pose": 192
+                    }
+                }
+            }
+        },
+        {
+            "key": 193,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483842,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_629.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 193,
+                        "id_intrinsic": 0,
+                        "id_pose": 193
+                    }
+                }
+            }
+        },
+        {
+            "key": 194,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483843,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_631.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 194,
+                        "id_intrinsic": 0,
+                        "id_pose": 194
+                    }
+                }
+            }
+        },
+        {
+            "key": 195,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483844,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_632.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 195,
+                        "id_intrinsic": 0,
+                        "id_pose": 195
+                    }
+                }
+            }
+        },
+        {
+            "key": 196,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483845,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_633.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 196,
+                        "id_intrinsic": 0,
+                        "id_pose": 196
+                    }
+                }
+            }
+        },
+        {
+            "key": 197,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483846,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_649.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 197,
+                        "id_intrinsic": 0,
+                        "id_pose": 197
+                    }
+                }
+            }
+        },
+        {
+            "key": 198,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483847,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_650.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 198,
+                        "id_intrinsic": 0,
+                        "id_pose": 198
+                    }
+                }
+            }
+        },
+        {
+            "key": 199,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483848,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_655.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 199,
+                        "id_intrinsic": 0,
+                        "id_pose": 199
+                    }
+                }
+            }
+        },
+        {
+            "key": 200,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483849,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_656.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 200,
+                        "id_intrinsic": 0,
+                        "id_pose": 200
+                    }
+                }
+            }
+        },
+        {
+            "key": 201,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483850,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_657.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 201,
+                        "id_intrinsic": 0,
+                        "id_pose": 201
+                    }
+                }
+            }
+        },
+        {
+            "key": 202,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483851,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_663.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 202,
+                        "id_intrinsic": 0,
+                        "id_pose": 202
+                    }
+                }
+            }
+        },
+        {
+            "key": 203,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483852,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_664.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 203,
+                        "id_intrinsic": 0,
+                        "id_pose": 203
+                    }
+                }
+            }
+        },
+        {
+            "key": 204,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483853,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_665.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 204,
+                        "id_intrinsic": 0,
+                        "id_pose": 204
+                    }
+                }
+            }
+        },
+        {
+            "key": 205,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483854,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_666.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 205,
+                        "id_intrinsic": 0,
+                        "id_pose": 205
+                    }
+                }
+            }
+        },
+        {
+            "key": 206,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483855,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_667.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 206,
+                        "id_intrinsic": 0,
+                        "id_pose": 206
+                    }
+                }
+            }
+        },
+        {
+            "key": 207,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483856,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_668.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 207,
+                        "id_intrinsic": 0,
+                        "id_pose": 207
+                    }
+                }
+            }
+        },
+        {
+            "key": 208,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483857,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_669.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 208,
+                        "id_intrinsic": 0,
+                        "id_pose": 208
+                    }
+                }
+            }
+        },
+        {
+            "key": 209,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483858,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_670.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 209,
+                        "id_intrinsic": 0,
+                        "id_pose": 209
+                    }
+                }
+            }
+        },
+        {
+            "key": 210,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483859,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_671.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 210,
+                        "id_intrinsic": 0,
+                        "id_pose": 210
+                    }
+                }
+            }
+        },
+        {
+            "key": 211,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483860,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_672.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 211,
+                        "id_intrinsic": 0,
+                        "id_pose": 211
+                    }
+                }
+            }
+        },
+        {
+            "key": 212,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483861,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_673.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 212,
+                        "id_intrinsic": 0,
+                        "id_pose": 212
+                    }
+                }
+            }
+        },
+        {
+            "key": 213,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483862,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_674.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 213,
+                        "id_intrinsic": 0,
+                        "id_pose": 213
+                    }
+                }
+            }
+        },
+        {
+            "key": 214,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483863,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_675.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 214,
+                        "id_intrinsic": 0,
+                        "id_pose": 214
+                    }
+                }
+            }
+        },
+        {
+            "key": 215,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483864,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_676.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 215,
+                        "id_intrinsic": 0,
+                        "id_pose": 215
+                    }
+                }
+            }
+        },
+        {
+            "key": 216,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483865,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_677.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 216,
+                        "id_intrinsic": 0,
+                        "id_pose": 216
+                    }
+                }
+            }
+        },
+        {
+            "key": 217,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483866,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_678.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 217,
+                        "id_intrinsic": 0,
+                        "id_pose": 217
+                    }
+                }
+            }
+        },
+        {
+            "key": 218,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483867,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_679.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 218,
+                        "id_intrinsic": 0,
+                        "id_pose": 218
+                    }
+                }
+            }
+        },
+        {
+            "key": 219,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483868,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_680.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 219,
+                        "id_intrinsic": 0,
+                        "id_pose": 219
+                    }
+                }
+            }
+        },
+        {
+            "key": 220,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483869,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_681.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 220,
+                        "id_intrinsic": 0,
+                        "id_pose": 220
+                    }
+                }
+            }
+        },
+        {
+            "key": 221,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483870,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_682.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 221,
+                        "id_intrinsic": 0,
+                        "id_pose": 221
+                    }
+                }
+            }
+        },
+        {
+            "key": 222,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483871,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_683.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 222,
+                        "id_intrinsic": 0,
+                        "id_pose": 222
+                    }
+                }
+            }
+        },
+        {
+            "key": 223,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483872,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_7.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 223,
+                        "id_intrinsic": 0,
+                        "id_pose": 223
+                    }
+                }
+            }
+        },
+        {
+            "key": 224,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483873,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_79.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 224,
+                        "id_intrinsic": 0,
+                        "id_pose": 224
+                    }
+                }
+            }
+        },
+        {
+            "key": 225,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483874,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_8.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 225,
+                        "id_intrinsic": 0,
+                        "id_pose": 225
+                    }
+                }
+            }
+        },
+        {
+            "key": 226,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483875,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_80.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 226,
+                        "id_intrinsic": 0,
+                        "id_pose": 226
+                    }
+                }
+            }
+        },
+        {
+            "key": 227,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483876,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_81.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 227,
+                        "id_intrinsic": 0,
+                        "id_pose": 227
+                    }
+                }
+            }
+        },
+        {
+            "key": 228,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483877,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_82.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 228,
+                        "id_intrinsic": 0,
+                        "id_pose": 228
+                    }
+                }
+            }
+        },
+        {
+            "key": 229,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483878,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_83.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 229,
+                        "id_intrinsic": 0,
+                        "id_pose": 229
+                    }
+                }
+            }
+        },
+        {
+            "key": 230,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483879,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_85.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 230,
+                        "id_intrinsic": 0,
+                        "id_pose": 230
+                    }
+                }
+            }
+        },
+        {
+            "key": 231,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483880,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_86.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 231,
+                        "id_intrinsic": 0,
+                        "id_pose": 231
+                    }
+                }
+            }
+        },
+        {
+            "key": 232,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483881,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_87.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 232,
+                        "id_intrinsic": 0,
+                        "id_pose": 232
+                    }
+                }
+            }
+        },
+        {
+            "key": 233,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483882,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_88.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 233,
+                        "id_intrinsic": 0,
+                        "id_pose": 233
+                    }
+                }
+            }
+        },
+        {
+            "key": 234,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483883,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_89.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 234,
+                        "id_intrinsic": 0,
+                        "id_pose": 234
+                    }
+                }
+            }
+        },
+        {
+            "key": 235,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483884,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_9.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 235,
+                        "id_intrinsic": 0,
+                        "id_pose": 235
+                    }
+                }
+            }
+        },
+        {
+            "key": 236,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483885,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_90.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 236,
+                        "id_intrinsic": 0,
+                        "id_pose": 236
+                    }
+                }
+            }
+        },
+        {
+            "key": 237,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483886,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_91.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 237,
+                        "id_intrinsic": 0,
+                        "id_pose": 237
+                    }
+                }
+            }
+        },
+        {
+            "key": 238,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483887,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_92.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 238,
+                        "id_intrinsic": 0,
+                        "id_pose": 238
+                    }
+                }
+            }
+        },
+        {
+            "key": 239,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483888,
+                    "data": {
+                        "local_path": "",
+                        "filename": "left_93.png",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 239,
+                        "id_intrinsic": 0,
+                        "id_pose": 239
+                    }
+                }
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "key": 0,
+            "value": {
+                "polymorphic_id": 2147483649,
+                "polymorphic_name": "pinhole_radial_k3",
+                "ptr_wrapper": {
+                    "id": 2147483889,
+                    "data": {
+                        "width": 1920,
+                        "height": 1080,
+                        "focal_length": 1404.821167,
+                        "principal_point": [
+                            1003.291626,
+                            487.0
+                        ],
+                        "disto_k3": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "extrinsics": [],
+    "structure": [],
+    "control_points": []
+}
