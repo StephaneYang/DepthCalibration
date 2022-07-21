@@ -1,0 +1,3 @@
+/home/pfc/sty/Documents/openCVprogramming/Charuco/build/CMakeFiles/Charuco.dir
+/home/pfc/sty/Documents/openCVprogramming/Charuco/build/CMakeFiles/edit_cache.dir
+/home/pfc/sty/Documents/openCVprogramming/Charuco/build/CMakeFiles/rebuild_cache.dir
