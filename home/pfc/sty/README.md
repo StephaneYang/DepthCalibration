@@ -1,3 +1,3 @@
 - JustAFolder is where the input svo files are contained
 - smallTrash is where the already used svo files are contained
-- matplotlibtest for plotting the depth estimated from the camera and the depth calculated
+- matplotlibtest for plotting the depth estimated from the camera and the depth calculated (so it must be run after everything)
