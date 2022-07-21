@@ -1,26 +1,19 @@
-# ZED SDK - SVO Playback
-
-This sample demonstrates how to read a SVO video file.
-
-## Getting Started
- - Get the latest [ZED SDK](https://www.stereolabs.com/developers/release/)
- - Check the [Documentation](https://www.stereolabs.com/docs/)
-
-## Build the program
- - Build for [Windows](https://www.stereolabs.com/docs/app-development/cpp/windows/)
- - Build for [Linux/Jetson](https://www.stereolabs.com/docs/app-development/cpp/linux/)
+# Depth Calibration
  
 ## Run the program
 - Navigate to the build directory and launch the executable
 - Or open a terminal in the build directory and run the sample :
 
-      ./ZED_SVO_Playback  svo_file.svo
+      ./cameraCalibration  svo_file.svo
 
 ### Features
- - Displays readed frame as an OpenCV image
- - Press 's' to save the current image as a PNG
- - Press 'f' to move forward in the recorded file
- - Press 'b' to move backward in the recorded file
+ - Press 'f' to jump forward in the video (optional)
+	- Press 'b' to jump backward in the video (optional)
+	- Press 'w' to wash everything
+	- Press 's' to save the video as an image list in all different displays
+	- Press 'c' to save the images from the ChArUco detection (optional but always after s)
+	- Press 'p' to launch the SFM pipeline
+	- Press 'd' to compare the depth given by the ZED camera software and the depth calculation using all the previous data
+	- Press 'q' or 'esc' to exit...
+	- Note that the order should be : w -> s -> p -> d , the rest are optional
   
-## Support
-If you need assistance go to our Community site at https://community.stereolabs.com/
