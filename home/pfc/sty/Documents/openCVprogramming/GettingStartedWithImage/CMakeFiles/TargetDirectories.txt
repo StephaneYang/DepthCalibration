@@ -1,0 +1,3 @@
+/home/pfc/sty/Documents/openCVprogramming/GettingStartedWithImage/CMakeFiles/GettingStartedWithImage.dir
+/home/pfc/sty/Documents/openCVprogramming/GettingStartedWithImage/CMakeFiles/edit_cache.dir
+/home/pfc/sty/Documents/openCVprogramming/GettingStartedWithImage/CMakeFiles/rebuild_cache.dir

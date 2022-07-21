@@ -1,0 +1,3 @@
+/home/pfc/sty/Documents/openCVprogramming/RandomPattern/CMakeFiles/RandomPattern.dir
+/home/pfc/sty/Documents/openCVprogramming/RandomPattern/CMakeFiles/edit_cache.dir
+/home/pfc/sty/Documents/openCVprogramming/RandomPattern/CMakeFiles/rebuild_cache.dir
