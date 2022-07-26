@@ -1,3 +1,4 @@
+//left to right : lines 613-620, 659
 #include <memory>
 #include <iostream>
 #include <string>
@@ -549,7 +550,7 @@ int main(int argc, char **argv)
 	runtime_parameters.sensing_mode = SENSING_MODE::STANDARD; // Set sensing mode in (FILL or STANDARD)
 	InitParameters init_parameters;
 	//init_parameters.sdk_verbose = true; // Enable the verbose mode
-	init_parameters.coordinate_units = UNIT::MILLIMETER; // Use millimeter units
+	init_parameters.coordinate_units = UNIT::METER; // Use millimeter units
 	init_parameters.input.setFromSVOFile(argv[1]);
 	init_parameters.depth_mode = sl::DEPTH_MODE::ULTRA; // Set the depth mode to performance (fastest)
 	init_parameters.depth_minimum_distance = 0.10 ; // Set the minimum depth perception distance to 10 cm
@@ -609,14 +610,14 @@ int main(int argc, char **argv)
 	double p1, p2; // Tangential distortions
 	auto camera_infos = zed.getCameraInformation(); // Get camera information
 	
-	focal_left_x = (double)camera_infos.camera_configuration.calibration_parameters.left_cam.fx; // Real focal length of the left eye in pixels stored in getCameraInformation()
-	principal_point_x = (double)camera_infos.camera_configuration.calibration_parameters.left_cam.cx;
-	principal_point_y = (double)camera_infos.camera_configuration.calibration_parameters.left_cam.cy;
-	k1 = camera_infos.camera_configuration.calibration_parameters.left_cam.disto[0];
-	k2 = camera_infos.camera_configuration.calibration_parameters.left_cam.disto[1];
-	p1 = camera_infos.camera_configuration.calibration_parameters.left_cam.disto[2];
-	p1 = camera_infos.camera_configuration.calibration_parameters.left_cam.disto[3];
-	k3 = camera_infos.camera_configuration.calibration_parameters.left_cam.disto[4];
+	focal_left_x = (double)camera_infos.camera_configuration.calibration_parameters.right_cam.fx; // Real focal length of the left eye in pixels stored in getCameraInformation()
+	principal_point_x = (double)camera_infos.camera_configuration.calibration_parameters.right_cam.cx;
+	principal_point_y = (double)camera_infos.camera_configuration.calibration_parameters.right_cam.cy;
+	k1 = camera_infos.camera_configuration.calibration_parameters.right_cam.disto[0];
+	k2 = camera_infos.camera_configuration.calibration_parameters.right_cam.disto[1];
+	p1 = camera_infos.camera_configuration.calibration_parameters.right_cam.disto[2];
+	p1 = camera_infos.camera_configuration.calibration_parameters.right_cam.disto[3];
+	k3 = camera_infos.camera_configuration.calibration_parameters.right_cam.disto[4];
 	cout << "focal_left_x " << focal_left_x << endl;
 	cout << "principal_point_x " << principal_point_x << endl;
 	cout << "principal_point_y " << principal_point_y << endl;
@@ -655,7 +656,7 @@ int main(int argc, char **argv)
 			zed.retrieveImage(depth_for_display,VIEW::DEPTH, MEM::CPU, low_resolution_depth);
 
 			// Get the left side image
-			zed.retrieveImage(imageZED, VIEW::LEFT);
+			zed.retrieveImage(imageZED, VIEW::RIGHT);
 
 			// Display the frame (LEFT&RIGHT) & depth
 			cv::imshow("View_L&R", svo_image_ocv);
@@ -849,6 +850,7 @@ int main(int argc, char **argv)
 								depth.getValue(x+path_x[path],y+path_y[path], &depth_value);
 								path++;
 							}
+							depth_value = depth_value*1000; // METERS TO MILLIMETERS
 							
 							if ((x <= 0)||(camOrigin(0,0) == -1)||(!isfinite(depth_value)))
 							{
