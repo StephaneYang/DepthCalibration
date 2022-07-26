@@ -534,6 +534,7 @@ MatrixXd FeaturePoint3Dposition(const MatrixXd& Intrinsic, JSON ptitJson, CHARUC
 
 int main(int argc, char **argv)
 {
+	if (system("mv /home/pfc/sty/Documents/cameraCalib/build/temporaryFolder/* /home/pfc/sty/Documents/cameraCalib/build/images/left/ ") == -1);
 	if (argc<=1)
 	{
 		cout << "Usage: \n";
@@ -551,7 +552,7 @@ int main(int argc, char **argv)
 	init_parameters.coordinate_units = UNIT::MILLIMETER; // Use millimeter units
 	init_parameters.input.setFromSVOFile(argv[1]);
 	init_parameters.depth_mode = sl::DEPTH_MODE::ULTRA; // Set the depth mode to performance (fastest)
-	init_parameters.depth_minimum_distance = 0.15 ; // Set the minimum depth perception distance to 15cm
+	init_parameters.depth_minimum_distance = 0.10 ; // Set the minimum depth perception distance to 10 cm
 	init_parameters.depth_maximum_distance = 40; // Set the maximum depth perception distance to 40m
 
 	// Create CHARUCO object
@@ -635,15 +636,15 @@ int main(int argc, char **argv)
 			if ((saveIncrement < nb_frames)&&(saveOK == 1)) // we only need to get depth and save the images in one loop (that's why 'saveIncrement' will not go back to 0)
 			{
 				SaveFramesFromSVO(svo_image, depth_for_display, imageZED, svo_position);
-				cout << "Executing ChArUco detection, please wait a minute" << endl;
-				charc.start();
-				cout << "Executing ChArUco detection, DONE" << endl;
 				saveIncrement++;
 			}
 			
 			if (saveIncrement == nb_frames)
 			{
 				cout << "Saving DONE!" << endl;
+				cout << "Executing ChArUco detection, please wait a minute" << endl;
+				charc.start();
+				cout << "Executing ChArUco detection, DONE" << endl;
 				saveIncrement++; // Just so that save Increment is no longer equal to nb_frames
 			}
 
@@ -700,10 +701,10 @@ int main(int argc, char **argv)
 						for (int id = 0; id < 24; id++)
 						{
 							if (charc.x[imnb][id] != -1) // At least one id is detected
-								remove = 0; // So we don't remove the image
+								remove = 0; // So we don't move the image
 						}
 						if (remove == 1) // Not a single id is detected
-							if (system(("rm /home/pfc/sty/Documents/cameraCalib/build/images/left/left_"+to_string(imnb)+".png").c_str()) == -1); // Proceed to remove
+							if (system(("mv /home/pfc/sty/Documents/cameraCalib/build/images/left/left_"+to_string(imnb)+".png /home/pfc/sty/Documents/cameraCalib/build/temporaryFolder").c_str()) == -1); // Proceed to move them somewhere
 					}
 					// Send the images (left) for the pose estimation in the SfM pipeline (openMVG)
 					cout<<"Run the SfM pipeline"<<endl;
@@ -714,6 +715,8 @@ int main(int argc, char **argv)
 					const char * c = str.c_str();
 					cout<<c<<endl<<endl;
 					if(system(c));
+					// Return the images
+					if (system("mv /home/pfc/sty/Documents/cameraCalib/build/temporaryFolder/* /home/pfc/sty/Documents/cameraCalib/build/images/left/ ") == -1);
 					break;
 				}
 				case 'c':
@@ -767,11 +770,11 @@ int main(int argc, char **argv)
 					}
 					
 					// Mean distance between two adjacent points in order to find the scale factor and get values in mm
-					// Provided that this distance is 24 mm
+					// Provided that this distance is 40 mm
 					double scale = 1.0;
 					double mean_distance = 0.0;
 					double nb_elem = 0;
-					double real_size = 24.0;
+					double real_size = 40.0;
 					for (int a=0; a<6; a++)
 					{
 						for (int b=0; b<4; b++)
@@ -836,46 +839,24 @@ int main(int argc, char **argv)
 							//cout << "depth_vector_calculated" << endl << depth_calculated << endl;
 							double depth_value_calculated = depth_calculated.norm()*scale;
 							////////cout << "depth_calculated " << depth_value_calculated << endl << endl;
-							if (!isfinite(depth_value))
+
+							// Check for neighbours coordinates's depth if no value
+							int path_x[24] = {1, 1, 0, -1, -1, -1, 0, 1, 2, 2, 2, 1, 0, -1, -2, -2, -2, -2, -2, -1, 0, 1, 2, 2};
+							int path_y[24] = {0, 1, 1, 1, 0, -1, -1, -1, 0, 1, 2, 2, 2, 2, 2, 1, 0, -1, -2, -2, -2, -2, -2, -1};
+							int path = 0;
+							while ((path < 24)&&(!isfinite(depth_value)))
 							{
-								depth.getValue(x+1,y, &depth_value);
-								if (!isfinite(depth_value))
-								{
-									depth.getValue(x+1,y+1, &depth_value);
-									if (!isfinite(depth_value))
-									{
-										depth.getValue(x,y+1, &depth_value);
-										if (!isfinite(depth_value))
-										{
-											depth.getValue(x-1,y+1, &depth_value);
-											if (!isfinite(depth_value))
-											{
-												depth.getValue(x-1,y, &depth_value);
-												if (!isfinite(depth_value))
-												{
-													depth.getValue(x-1,y-1, &depth_value);
-													if (!isfinite(depth_value))
-													{
-														depth.getValue(x,y-1, &depth_value);
-														if (!isfinite(depth_value))
-														{
-															depth.getValue(x+1,y-1, &depth_value);
-														}
-													}
-												}
-											}
-										}
-									}
-								}
+								depth.getValue(x+path_x[path],y+path_y[path], &depth_value);
+								path++;
 							}
 							
-							if ((x <= 0)||(camOrigin(0,0) == -1))
+							if ((x <= 0)||(camOrigin(0,0) == -1)||(!isfinite(depth_value)))
 							{
 								//depth_txt = depth_txt.append("Image n·"+to_string(svo_position)+"\t"+"depth could not be calculated\t "+ to_string(depth_value)+" pxl depth(ZED)\t at x = "+to_string(x)+", y = "+to_string(y)+"\n");
 							}
 							else
 							{
-								depth_txt = depth_txt.append("Image n·"+to_string(svo_position)+"\t"+to_string(depth_value_calculated)+" mm depth(calculated)\t "+ to_string(depth_value)+" mm depth(ZED)\t at x = "+to_string(x)+", y = "+to_string(y)+"\t difference of "+to_string(depth_value_calculated-depth_value)+" mm"+"\n");
+								depth_txt = depth_txt.append("Image n·"+to_string(svo_position)+"\t"+to_string(depth_value_calculated)+" mm depth(calculated)\t "+ to_string(depth_value)+" mm depth(ZED)\t at x = "+to_string(x)+"-"+to_string(x+path_x[path]-1)+", y = "+to_string(y)+"-"+to_string(y+path_y[path]-1)+"\t difference of "+to_string(depth_value_calculated-depth_value)+" mm"+"\n");
 							}
 						}
 
@@ -895,6 +876,7 @@ int main(int argc, char **argv)
 				case 'w':
 				{
 					//Empty the images & folders
+					if (system("rm /home/pfc/sty/Documents/cameraCalib/build/*.txt") == -1);
 					if (system("rm /home/pfc/sty/Documents/cameraCalib/build/charuco/*.png") == -1);
 					if (system("rm /home/pfc/sty/Documents/cameraCalib/build/images/*.png") == -1);
 					if (system("rm /home/pfc/sty/Documents/cameraCalib/build/depths/*.png") == -1);
