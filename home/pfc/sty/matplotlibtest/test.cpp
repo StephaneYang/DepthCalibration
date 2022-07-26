@@ -12,7 +12,7 @@ int main(int argc, char **argv)
 {
 	std::vector<double> j(2);
 	j.at(0) = 0;
-	j.at(1) = 1000;
+	j.at(1) = 10000;
 	
 	plt::figure(1);
 	// Set the size of output image to 2000x2000 pixels
@@ -77,8 +77,8 @@ int main(int argc, char **argv)
 		plt::ylim(0, 1000);
 	}
 	// axis label
-	plt::xlabel("Depth from ZED camera");
-	plt::ylabel("Depth from calculation");
+	plt::xlabel("Depth from ZED camera (mm)");
+	plt::ylabel("Depth from calculation (mm)");
 	// Save the image (file format is determined by the extension)
 	plt::save("./DepthPlot.png");
 	
@@ -151,8 +151,8 @@ int main(int argc, char **argv)
 		plt::ylim(0, 1000);
 	}
 	// axis label
-	plt::xlabel("Depth from ZED camera");
-	plt::ylabel("Depth from calculation");
+	plt::xlabel("Depth from ZED camera (mm)");
+	plt::ylabel("Depth from calculation (mm)");
 	// Save the image (file format is determined by the extension)
 	plt::save("./DepthScatter.png");
 }
