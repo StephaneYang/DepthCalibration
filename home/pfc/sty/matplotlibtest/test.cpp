@@ -33,23 +33,19 @@ int main(int argc, char **argv)
 			{
 				cout << tp << "\n"; //print the data of the string
 
-				if(tp.length()>110)
+				if(tp.length()>118)
 				{
-					string token1 = tp.substr(tp.find(" mm depth(calculated)")-10, 10);
+					string token1 = tp.substr(tp.find(" mm depth(calculated)")-11, 11);
 					cout << token1 << endl;
 					y.at(k) = stod(token1);
 					cout << y.at(k) << endl;
 					
-					string token2 = tp.substr(tp.find(" mm depth(ZED)")-10, 10);
+					string token2 = tp.substr(tp.find(" mm depth(ZED)")-11, 11);
 					cout << token2 << endl;
 					x.at(k) = stod(token2);
 					cout << x.at(k) << endl;
 					
 					k++;
-				}
-				else
-				{
-					cout << "no depth found\n";
 				}
 			}
 		}
@@ -107,14 +103,14 @@ int main(int argc, char **argv)
 			{
 				cout << tp << "\n"; //print the data of the string
 
-				if(tp.length()>110)
+				if(tp.length()>118)
 				{
-					string token1 = tp.substr(tp.find(" mm depth(calculated)")-10, 10);
+					string token1 = tp.substr(tp.find(" mm depth(calculated)")-11, 11);
 					cout << token1 << endl;
 					y.at(k) = stod(token1);
 					cout << y.at(k) << endl;
 					
-					string token2 = tp.substr(tp.find(" mm depth(ZED)")-10, 10);
+					string token2 = tp.substr(tp.find(" mm depth(ZED)")-11, 11);
 					cout << token2 << endl;
 					x.at(k) = stod(token2);
 					cout << x.at(k) << endl;
