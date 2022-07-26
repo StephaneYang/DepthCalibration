@@ -549,10 +549,9 @@ int main(int argc, char **argv)
 	RuntimeParameters runtime_parameters;
 	runtime_parameters.sensing_mode = SENSING_MODE::STANDARD; // Set sensing mode in (FILL or STANDARD)
 	InitParameters init_parameters;
-	//init_parameters.sdk_verbose = true; // Enable the verbose mode
 	init_parameters.coordinate_units = UNIT::METER; // Use meter units
 	init_parameters.input.setFromSVOFile(argv[1]);
-	init_parameters.depth_mode = sl::DEPTH_MODE::ULTRA; // Set the depth mode to performance (fastest)
+	init_parameters.depth_mode = sl::DEPTH_MODE::ULTRA; // Set the depth mode to ultra
 	init_parameters.depth_minimum_distance = 0.10 ; // Set the minimum depth perception distance to 10 cm
 	init_parameters.depth_maximum_distance = 40; // Set the maximum depth perception distance to 40m
 
