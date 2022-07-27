@@ -1,3 +1,4 @@
 - JustAFolder is where the input svo files are contained
 - smallTrash is where the already used svo files are contained
 - matplotlibtest for plotting the depth estimated from the camera and the depth calculated (so it must be run after being done with cameraCalib's execution)
+- inside the code of cameraCalib (main.cpp), left can actually be right so check the corresponding lines (given at the beginning of the code)
